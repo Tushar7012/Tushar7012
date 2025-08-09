@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Tushar Das</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF99&center=true&vCenter=true&lines=AI+Engineer;Data+Scientist;Machine+Learning+Researcher;Deep+Learning+Practitioner;Natural+Language+Processing+Enthusiast;Transformer+Architectures+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FF99&width=650&center=true&vCenter=true&lines=AI+Engineer;Data+Scientist;Machine+Learning+Researcher;Deep+Learning+Practitioner;Natural+Language+Processing+Enthusiast;Transformer+Architectures+Expert" />
 </p>
 
 ## 🚀 About Me
